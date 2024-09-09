@@ -1,0 +1,40 @@
+.container{
+    width: 50%;
+    display:grid;
+    background-color:black;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 200px 200px 200px ;
+    gap: 10px;
+    padding: 20px;
+    margin:5px;
+    
+}
+.one{
+    background-color:rgb(12, 92, 220);
+}
+.two{
+    background-color:rgb(12, 92, 220);
+}
+.three{
+    background-color:rgb(12, 92, 220) ;
+}
+
+.five{
+    background-color:rgb(12, 92, 220);
+}
+.six{
+    background-color: rgb(12, 92, 220);
+}
+.seven{
+    background-color: rgb(12, 92, 220);
+}
+.eight{
+    background-color:rgb(12, 92, 220);
+}
+.nine{
+    background-color:rgb(12, 92, 220);
+}
+.ten{
+    background-color: rgb(12, 92, 220);
+}
+
